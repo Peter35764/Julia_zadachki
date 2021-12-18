@@ -4,9 +4,7 @@
 РЕЗУЛЬТАТ: Робот - в клетке под проходом.
 =#
 using HorizonSideRobots
-include("C:\\Users\\user\\Desktop\\prog\\Основы алгоритмики\\!zadachki\\Libraries\\lib2.jl")
-r=Robot(10, 10; animate=true)
-r = CoordRobot(r)
+
 println("  ЗАДАЧА 8
  ---Инструкция---
  1. Подключить с помощью команды include() файл lib2.jl, который можно найти в папке Libraries.
