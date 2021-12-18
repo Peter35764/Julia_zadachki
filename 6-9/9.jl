@@ -4,8 +4,7 @@
 РЕЗУЛЬТАТ: Робот - в клетке с тем маркером.
 =#
 using HorizonSideRobots
-include("C:\\Users\\user\\Desktop\\prog\\Основы алгоритмики\\!zadachki\\Libraries\\lib2.jl")
-r=Robot(10, 10; animate=true)
+
 println("  ЗАДАЧА 9
  ---Инструкция---
  1. Подключить с помощью команды include() файл lib2.jl, который можно найти в папке Libraries.
